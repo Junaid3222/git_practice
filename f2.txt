@@ -1,1 +1,2 @@
-chenges from outside
+chenges from outside (notepade)
+chaged file from git web repository
