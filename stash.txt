@@ -6,8 +6,6 @@ lane 1
 lane 1
 }
 
-
-
 task 3 (after stash cmd run)
 {
 	hello bro 
