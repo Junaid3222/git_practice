@@ -1,4 +1,4 @@
-tast no 1
+task no 1
 {
 	lane 1
 lane 1
