@@ -1,0 +1,21 @@
+Main
+Option
+Features
+Derivatieves
+
+Never trade (90% loss by experts)
+Option
+equity 
+Futures
+
+
+A. Derivatieves (400x from cash market)
+drived from other asset (F&O)
+type 1. Futures
+	
+	
+type 2. options
+	a. Call (buy)
+	b. Put (sell)
+
+B. Cash Market

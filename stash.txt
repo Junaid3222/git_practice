@@ -1,0 +1,22 @@
+task_no_1
+
+{
+	lane 1
+lane 1
+lane 1
+lane 1
+}
+
+task 3 (after stash cmd run)
+{
+	hello bro 
+	hello
+}
+
+task 2
+{
+	p1
+	p2
+	p3
+}
+
